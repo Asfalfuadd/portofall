@@ -65,7 +65,7 @@ export const projects = [
       "Personal portfolio site built with Next.js and Tailwind CSS.",
     image: "/projects/project-3.png",
     tech: ["Next.js", "Tailwind", "TypeScript", "React"],
-    demoUrl: "https://ash.vercel.app",
+    demoUrl: "https://asfall.vercel.app",
     githubUrl: "https://github.com/Asfalfuadd/portofall",
   },
 ];
