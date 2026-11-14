@@ -2,7 +2,7 @@
 
 Personal portfolio website built with **Next.js 15**, **Tailwind CSS**, and **shadcn/ui**. Clean, performant, and fully responsive.
 
-## Live Demo
+## Site
 [asfall.vercel.app](https://asfall.vercel.app)
 
 ## Tech Stack
