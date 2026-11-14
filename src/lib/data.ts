@@ -5,7 +5,7 @@ export const personalInfo = {
   title: "Web Developer",
   tagline: "Building clean, performant web experiences.",
   bio: "I'm a web developer passionate about building modern web applications. I focus on writing clean code and creating intuitive user interfaces that solve real problems.",
-  avatar: "/avatar.jpg", // ganti dengan foto kamu (letakkan di folder public/)
+  avatar: "/avatar.jpg",
   resumeUrl: "#",
 };
 
@@ -21,7 +21,7 @@ export const skillCategories = [
   {
     title: "Frontend",
     icon: Globe,
-    items: ["React", "Next.js", "TypeScript", "Tailwind CSS", "HTML", "CSS"],
+    items: ["React", "Next.js", "TypeScript", "Tailwind CSS",],
   },
   {
     title: "Backend",
@@ -31,7 +31,7 @@ export const skillCategories = [
   {
     title: "Languages",
     icon: Code2,
-    items: ["JavaScript", "TypeScript", "Python", "PHP"],
+    items: ["JavaScript", "TypeScript", "Python", "PHP", "HTML", "CSS",],
   },
   {
     title: "Tools",
@@ -64,9 +64,9 @@ export const projects = [
     description:
       "Personal portfolio site built with Next.js and Tailwind CSS.",
     image: "/projects/project-3.png",
-    tech: ["Next.js", "Tailwind", "shadcn/ui"],
-    demoUrl: "https://example.com",
-    githubUrl: "https://github.com",
+    tech: ["Next.js", "Tailwind", "TypeScript", "React"],
+    demoUrl: "https://ash.vercel.app",
+    githubUrl: "https://github.com/Asfalfuadd/portofall",
   },
 ];
 
