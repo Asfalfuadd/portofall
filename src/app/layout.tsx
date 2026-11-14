@@ -18,7 +18,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Asfal Fuad | Web Developer",
+  title: "Asfal Fuad",
   description:
     "Personal portfolio of Asfal Fuad — a web developer building clean, performant web experiences.",
 };
